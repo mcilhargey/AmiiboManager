@@ -6,6 +6,7 @@ The backup tool help you storing different versions of your Amiibo, import and e
 
 ### Editing tool
 The editing tool help you editing your save data, amiibo owner and nickname
+
 Super Smash Bros will be the first game with cheat options
 
 ### Decryption tool
